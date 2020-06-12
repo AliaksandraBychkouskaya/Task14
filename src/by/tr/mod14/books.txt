@@ -1,0 +1,3 @@
+Harper Lee,1984,1984,20000.5
+Harper Lee,To Kill a Mockingbird,2000,10000.7
+Harper Lee2,Harry Potter and the Philosopher’s Stone,1990,19900.0
